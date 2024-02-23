@@ -1,4 +1,10 @@
-### Hi there 👋
+### Don't suggest too much by my profile picture. My thinking process is definitely less disruptive than Mat's from that cartoon.
+## 🧑‍🎓 I'm a BE postgraduate (Bachelor's in engineering) who is looking for his first serious job 💻
+
+
+- 🔭 I am currently developing my skills with .Net
+- 🌱 I’m currently learning how to write good unit and integration tests
+- 🔮 Future plans: create a proper portfolio page, develop a financial application, learn React/Angular and deepen my programming skills.
 
 <!--
 **m-szczepanski/m-szczepanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
