@@ -1,5 +1,4 @@
 ### Don't suggest too much by my profile picture. My thinking process is definitely less disruptive than Mat's from that cartoon.
-## 🧑‍🎓 I'm a BE postgraduate (Bachelor's in engineering) who is looking for his first serious job 💻
 
 ### 🌐 [Portfolio site](https://m-szczepanski.vercel.app/)
 
