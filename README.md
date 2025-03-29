@@ -1,5 +1,3 @@
-### Don't suggest too much by my profile picture. My thinking process is definitely less disruptive than Mat's from that cartoon.
-
 ### 🌐 [Portfolio site](https://m-szczepanski.vercel.app/)
 
 - 🔭 I am currently developing my skills in .Net technology
