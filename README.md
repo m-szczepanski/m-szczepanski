@@ -1,5 +1,3 @@
-### 🌐 [Portfolio site](https://m-szczepanski.vercel.app/)
-
 - 🔭 I am currently developing my skills in .Net technology
 - 🌱 I’m currently learning how to write good unit and integration tests
 - 🔮 Future plans: develop a financial application, learn React/Angular and deepen my programming skills.
