@@ -1,5 +1,5 @@
 # m-szczepanski
-**`A Junior Backend (to be Fullstack soon) Engineer`**
+**`A Junior Fullstack Engineer`**
 
 
 # 💻 Tech Stack:
