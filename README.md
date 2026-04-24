@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Mateusz, <br><br>- I’m working as Fullstack Engineer <br>- I'm currently into .Net and discovering golang. <br>
+<p align="left">I'm Mateusz, <br><br>- I’m working as Fullstack Engineer <br>- I'm currently into .Net, discovering golang and agentic AI capabilities. <br>
 
 ###
 
