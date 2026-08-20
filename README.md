@@ -1,12 +1,7 @@
 <h1 align="left">Hi,</h1>
 
-###
-
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="left">I'm Mateusz, <br><br>- I’m working as Fullstack Engineer <br>- I'm currently into .Net, discovering golang and agentic AI capabilities. <br>
+### <p align="left">I'm Mateusz, currently working as Fullstack Engineer.
+<br> I'm into .Net, discovering golang and agentic AI capabilities. <br>
 
 ###
 
@@ -37,10 +32,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
-
-###
-
-<h3 align="left">My Stats :</h3>
 
 ###
 
