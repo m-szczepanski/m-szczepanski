@@ -1,6 +1,6 @@
 <h1 align="left">Hi,</h1>
 
-### <p align="left">I'm Mateusz, currently working as Fullstack Engineer.
+### <p align="left">I'm Mateusz. Currently working as a Fullstack Engineer.
 <br> I'm into .Net, discovering golang and agentic AI capabilities. <br>
 
 ###
