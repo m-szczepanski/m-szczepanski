@@ -1,7 +1,7 @@
 <h1 align="left">Hi,</h1>
 
-### <p align="left">I'm Mateusz, a Fullstack Engineer working in the construction technology space. I build software and tools for the AEC industry, exploring how technologies like BIM, VDC, and 3D/VR can be used to solve real-world problems and improve the way construction projects are designed and delivered.
-<br> I'm into .NET and Angular professionally, while spending my free time exploring Go, React, and agentic AI. I'm especially enjoying getting deeper into Go and exploring new approaches to building software with it. <br>
+<p align="left">I'm Mateusz, a Fullstack Engineer working in the construction technology space. I build software and tools for the AEC industry, exploring how technologies like BIM, VDC, and 3D/VR can be used to solve real-world problems and improve the way construction projects are designed and delivered.
+<br><br> I'm into .NET and Angular professionally, while spending my free time exploring Go, React, and agentic AI. I'm especially enjoying getting deeper into Go and exploring new approaches to building software with it. <br>
 
 ###
 
